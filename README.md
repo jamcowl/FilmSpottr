@@ -4,11 +4,11 @@
 
 * Clone the repo
 
-* ```npm install```
+ ```npm install```
 
-* ```npm start``` to run in a browser
+ ```npm start``` to run in a browser
 
-* ```npm build``` to deploy a production ready application
+ ```npm build``` to deploy a production ready application
 
 * Scraping
 
